@@ -1,0 +1,20 @@
+The IGRF95 coefficients on geomag were updated on Sept 21, 1995.
+Through correspondence with Charlie Barton at the Australian
+Geological Survey it was discovered that a difference in precision
+caused a rounding difference for the G 7 6 term, and a misplaced
+decimal point caused an error in the H 8 7 term.  The correct
+values for these coefficients are:
+                G 7 6  10.  [rather than 9.]
+                H 8 7 -17.  [rather than -11.]
+as reflected on the geomag coefficient set.
+
+	-Joy Conrad
+	conrad@geomag.gsfc.nasa.gov
+
+------------------------------------------------------
+
+The IGRF95 coefficient file at this site was updated on Nov 13, 1995.
+
+	-Dieter Bilitza
+	bilitza@nssdca.gsfc.nasa.gov
+
